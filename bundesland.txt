@@ -1,6 +1,6 @@
-Rhineland-Pflaz
-Bremen
-Berlin
-Brandenberg
-Hessen
+Rhineland-Pflaz- 100,000
+Bremen -200,000
+Berlin-300,000
+Brandenberg-400,000
+Hessen-500,000
 Baden-Wütenberg
